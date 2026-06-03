@@ -36,6 +36,38 @@ Battle against AI opponents or challenge a friend in local multiplayer mode whil
 
 Add screenshots here after uploading them.
 
-```text
-assets/screenshots/menu.png
-assets/screenshots/gameplay.png
+Example:
+
+```markdown
+![Main Menu](assets/screenshots/menu.png)
+
+![Gameplay](assets/screenshots/gameplay.png)
+```
+
+---
+
+## 🎮 Controls
+
+### Player 1
+
+| Action | Key |
+|---------|-----|
+| Move Left | A |
+| Move Right | D |
+| Jump | W |
+| Block | S |
+| Punch | F |
+| Kick | G |
+| Super Move | H |
+
+### Player 2
+
+| Action | Key |
+|---------|-----|
+| Move Left | ← |
+| Move Right | → |
+| Jump | ↑ |
+| Block | ↓ |
+| Punch | J |
+| Kick | K |
+| Super Move | L |
