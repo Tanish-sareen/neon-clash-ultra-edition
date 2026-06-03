@@ -1,45 +1,41 @@
-# NEON CLASH – Ultra Edition
+# ⚔️ NEON CLASH – Ultra Edition
 
-A cyberpunk-inspired 2D fighting game built entirely with HTML, CSS, and JavaScript.
+> A fast-paced cyberpunk fighting game built with pure HTML, CSS, and JavaScript.
 
-## Features
+![License](https://img.shields.io/badge/license-MIT-green)
+![HTML5](https://img.shields.io/badge/HTML5-Game-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![Status](https://img.shields.io/badge/status-Playable-success)
 
-- 6 unique fighters
-- VS Computer mode
-- Local Multiplayer mode
-- Special moves and combo system
-- Dynamic visual effects
-- Health and energy bars
-- Round-based combat
-- Neon cyberpunk aesthetic
+---
 
-## Controls
+## 🎮 About The Game
 
-### Player 1
-| Action | Key |
-|----------|-----|
-| Move Left | A |
-| Move Right | D |
-| Jump | W |
-| Block | S |
-| Punch | F |
-| Kick | G |
-| Super Move | H |
+NEON CLASH is a futuristic 2D fighting game inspired by classic arcade fighters and cyberpunk aesthetics.
 
-### Player 2
-| Action | Key |
-|----------|-----|
-| Move Left | ← |
-| Move Right | → |
-| Jump | ↑ |
-| Block | ↓ |
-| Punch | J |
-| Kick | K |
-| Super Move | L |
+Battle against AI opponents or challenge a friend in local multiplayer mode while mastering special moves, combos, and devastating super attacks.
 
-## Installation
+---
 
-Clone the repository:
+## ✨ Features
 
-```bash
-git clone https://github.com/Tanish-sareen/neon-clash.git
+- 🥊 Multiple unique fighters
+- 🤖 VS Computer mode
+- 👥 Local Multiplayer mode
+- ⚡ Special attacks and combo system
+- ❤️ Dynamic health system
+- 🔋 Energy / Super meter
+- 🌆 Cyberpunk-inspired visual design
+- 🎯 Responsive keyboard controls
+- 🎵 Arcade-style gameplay experience
+- 🚀 Runs directly in any modern browser
+
+---
+
+## 📸 Screenshots
+
+Add screenshots here after uploading them.
+
+```text
+assets/screenshots/menu.png
+assets/screenshots/gameplay.png
